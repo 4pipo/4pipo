@@ -4,7 +4,7 @@
 <a href="https://twitter.com/dogukandeseniy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dogukandeseniy1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/doğukan-akmaz-1479b1253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doğukan-akmaz-1479b1253" height="30" width="40" /></a>
 <a href="https://instagram.com/dogudiyebilirsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogudiyebilirsin" height="30" width="40" /></a>
-<a href="https://discord.gg/Pip#1373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pip#1373" height="30" width="40" /></a>
+<a href="https://discord.gg/A5UV62Cr4U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pip#1373" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
