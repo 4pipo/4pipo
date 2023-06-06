@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
-- I’m currently learning **Python**
--20 Years old
--Full Stack Web Developer with Certificate
--Ask me about Front-end
--Practical
--Punctional
-- Reach me **dogukan28akmaz@gmail.com**
+<ul>
 
+<li>- I’m currently learning **Python** </li>
+<li>-20 Years old</li>
+<li>-Full Stack Web Developer with Certificate</li>
+<li>-Ask me about Front-end</li>
+<li>-Practical</li>
+<li>-Punctional</li>
+<li>-Reach me **dogukan28akmaz@gmail.com**</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dogukandeseniy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dogukandeseniy1" height="30" width="40" /></a>
