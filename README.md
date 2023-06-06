@@ -6,7 +6,7 @@
 <li>-Full Stack Web Developer with Certificate</li>
 <li>-Ask me about Front-end</li>
 <li>-Practical</li>
-<li>-Punctional</li>
+<li>-Punctual</li>
 <li>-Reach me **dogukan28akmaz@gmail.com**</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
