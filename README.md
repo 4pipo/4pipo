@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
 <ul>
 
-<li>- I’m currently learning **Python** </li>
-<li>-20 Years old</li>
+<li>-21 Years old</li>
 <li>-Full Stack Web Developer with Certificate</li>
 <li>-Ask me about Front-end</li>
 <li>-Practical</li>
@@ -13,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/dogukandeseniy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dogukandeseniy1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/doğukan-akmaz-1479b1253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doğukan-akmaz-1479b1253" height="30" width="40" /></a>
-<a href="https://instagram.com/dogudiyebilirsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogudiyebilirsin" height="30" width="40" /></a>
+<a href="https://instagram.com/dogu.akmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogu.akmz" height="30" width="40" /></a>
 <a href="https://discord.gg/yHbWxzV2ZD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pip#1373" height="30" width="40" /></a>
 </p>
 
