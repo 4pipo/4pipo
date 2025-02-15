@@ -2,7 +2,6 @@
 <ul>
 
 <li>-21 Years old</li>
-<li>-Full Stack Web Developer with Certificate</li>
 <li>-Ask me about Front-end</li>
 <li>-Practical</li>
 <li>-Punctual</li>
