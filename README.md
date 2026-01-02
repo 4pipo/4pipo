@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
 <ul>
 
-<li>-21 Years old</li>
-<li>-Ask me about Front-end</li>
+<li>-22 Years old</li>
+<li>-Ask me about management systems</li>
 <li>-Practical</li>
 <li>-Punctual</li>
 <li>-Reach me **dogukan28akmaz@gmail.com**</li>
